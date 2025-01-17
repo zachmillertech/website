@@ -7,7 +7,7 @@ export default function Hero() {
       <div 
         className="absolute inset-0 z-0 bg-cover bg-center"
         style={{
-          backgroundImage: "url('https://source.unsplash.com/1600x900/?puppy,7')",
+          backgroundImage: "url('https://m.media-amazon.com/images/I/71L+46v5hnL.jpg')",
           opacity: 0.3
         }}
         aria-hidden="true"
@@ -19,7 +19,7 @@ export default function Hero() {
         </h2>
         <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0">
           <div className="inline-flex rounded-md shadow">
-            <ContactModal />
+            ** removed ContactModal div **
           </div>
           <div className="ml-3 inline-flex rounded-md shadow">
           </div>
