@@ -22,9 +22,6 @@ export default function Hero() {
             <ContactModal />
           </div>
           <div className="ml-3 inline-flex rounded-md shadow">
-            <Button variant="outline" size="lg">
-              Learn More
-            </Button>
           </div>
         </div>
       </div>
