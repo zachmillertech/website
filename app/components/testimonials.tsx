@@ -6,19 +6,19 @@ const testimonials = [
     name: "Jane Doe",
     company: "Tech Innovators Inc.",
     testimonial: "Zach's expertise transformed our IT infrastructure. We've seen remarkable improvements in efficiency and security.",
-    image: "https://source.unsplash.com/100x100/?puppy,4",
+    image: "https://m.media-amazon.com/images/I/71L+46v5hnL.jpg",
   },
   {
     name: "John Smith",
     company: "Global Solutions Ltd.",
     testimonial: "Working with Zach was a game-changer for our cloud strategy. His insights and implementation were invaluable.",
-    image: "https://source.unsplash.com/100x100/?puppy,5",
+    image: "https://m.media-amazon.com/images/I/71L+46v5hnL.jpg",
   },
   {
     name: "Emily Brown",
     company: "NextGen Startups",
     testimonial: "Zach's SaaS optimization recommendations helped us streamline our operations and reduce costs significantly.",
-    image: "https://source.unsplash.com/100x100/?puppy,6",
+    image: "https://m.media-amazon.com/images/I/71L+46v5hnL.jpg",
   },
 ]
 
