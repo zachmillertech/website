@@ -14,9 +14,8 @@ export default function Hero() {
       ></div>
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between relative z-10">
         <h2 className="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
-          <span className="block" style="background-color:white;">Tech got you in wrinkles?</span>
-          <div className="block text-blue-600">The <span className="strikethrough">bark</span> stops here.
-          </div>
+          <span className="block">Tech got you in wrinkles?</span>
+          <span className="block text-blue-600">The </span><span className="strikethrough">bark</span> buck stops here.</span>
         </h2>
         <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0">
           <div className="inline-flex rounded-md shadow">
