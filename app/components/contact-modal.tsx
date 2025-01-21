@@ -11,7 +11,7 @@ export default function ContactModal() {
   return (
     <Dialog open={isOpen} onOpenChange={setIsOpen}>
       <DialogTrigger asChild>
-        <Button>What do you need solved?</Button>
+        <Button>What can I help you solve?</Button>
       </DialogTrigger>
       <DialogContent className="sm:max-w-[425px]">
         <DialogHeader>
