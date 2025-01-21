@@ -92,3 +92,6 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+
+.strikethrough { text-decoration: line-through; }
