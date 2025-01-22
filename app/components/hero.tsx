@@ -12,7 +12,7 @@ export default function Hero() {
       />
       <div className="relative z-10 max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
         <h1 className="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
-          <span className="block xl bg-indigo-60 text-primary-foreground px-2">Tech got you in wrinkles?</span>{" "}
+          <span className="xl bg-indigo-60 text-primary-foreground px-2">Tech got you in wrinkles?</span>{" "}
           <span className="block text-primary xl:inline">
             The <span className="line-through">bark</span> buck stops here.
           </span>
