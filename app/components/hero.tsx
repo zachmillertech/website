@@ -14,12 +14,11 @@ export default function Hero() {
         <h1 className="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
           <span className="block xl:inline bg-primary text-primary-foreground px-2">Tech got you in wrinkles?</span>{" "}
           <span className="block text-indigo-600 xl:inline">
-            The <span className="line-through">bark</span> buck stops here.
+            The <span className="line-through">Bark</span> buck stops here.
           </span>
         </h1>
-        <p className="mt-3 max-w-md mx-auto text-base text-foreground sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-          Is your business' tech a little "ruff" around the edges? </span>
-          <span>I can help transform your digital "paw-print"!</span>
+        <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
+          Discover the power of our application and boost your productivity.
         </p>
         <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
           <div className="rounded-md shadow">
