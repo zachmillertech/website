@@ -16,7 +16,7 @@ export default function Hero() {
         <h2 className="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
           <span className="block">Tech got you in wrinkles?</span>
           <span className="block text-blue-600">The </span><span className="strikethrough">bark</span> buck stops here.</span>
-        Transform your digital paw print.</h2>
+        Transform your digital paw prints.</h2>
         <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0">
           <div className="inline-flex rounded-md shadow">
             
