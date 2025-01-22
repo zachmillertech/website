@@ -14,7 +14,7 @@ export default function Hero() {
         <h1 className="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
           <span className="xl bg-indigo-60 text-primary-foreground px-2">Tech got you in wrinkles?</span>{" "}
           <span className="block text-primary xl:inline">
-            The <span className="line-through">bark</span> buck stops here.
+            The <span className="line-through">baark</span> buck stops here.
           </span>
         </h1>
         <p className="mt-3 max-w-md mx-auto text-base text-foreground sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
