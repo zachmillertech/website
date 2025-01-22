@@ -17,8 +17,8 @@ export default function Hero() {
             The <span className="line-through">bark</span> buck stops here.
           </span>
         </h1>
-        <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-          Is your web presence a little ruff around the edges? I can help transform your digital paw-print.
+        <p className="mt-3 max-w-md mx-auto text-base text-foreground sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
+          Is your business' tech a little "ruff" around the edges? <br>I can help transform your digital "paw-print"!</br>
         </p>
         <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
           <div className="rounded-md shadow">
