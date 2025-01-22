@@ -6,7 +6,7 @@ export default function Hero() {
       <div
         className="absolute inset-0 z-0 bg-cover bg-center"
         style={{
-          backgroundImage: "url('https://m.media-amazon.com/images/I/71L+46v5hnL.jpg')",
+          backgroundImage: "url('https://geniusvets.s3.amazonaws.com/gv-dog-breeds/chinese-shar-pei-1.jpg')",
           opacity: 0.5,
         }}
       />
